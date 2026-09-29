@@ -94,5 +94,5 @@ O projeto será atualizado progressivamente conforme novas etapas de tratamento,
 
 ## Fonte de dados
 
-Fonte: SEEG – Sistema de Estimativa de Emissões e Remoções de Gases de Efeito Estufa, Observatório do Clima, acessado em [data] – seeg.eco.br”.
+Fonte: SEEG – Sistema de Estimativa de Emissões e Remoções de Gases de Efeito Estufa, Observatório do Clima, acessado em 23/07/2026 – seeg.eco.br.
 Data da última atualização: 17/12/2025 (13.0)
